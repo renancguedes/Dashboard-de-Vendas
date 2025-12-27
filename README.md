@@ -4,6 +4,8 @@ Este projeto apresenta um **dashboard de vendas interativo**, desenvolvido para 
 
 O foco do dashboard é facilitar análises rápidas e apoiar na tomada de decisão por áreas como comercial e marketing.
 
+**[VISITAR DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiYzEwYzk2ZTQtMmQ1OC00NmVmLTllNWQtOWUzMjZlOGI5MTQxIiwidCI6IjQ2MDJiYjMzLTkwMDEtNDg3NC1hYjQwLTEwY2Q0MzYyNzY0OSJ9)**
+
 ---
 
 <img src="https://github.com/renancguedes/Dashboard-de-Vendas/blob/main/dashboard-de-vendas.png">
