@@ -6,6 +6,10 @@ O foco do dashboard é facilitar análises rápidas e apoiar na tomada de decis�
 
 ---
 
+<img src="https://github.com/renancguedes/Dashboard-de-Vendas/blob/main/dashboard-de-vendas.png">
+
+---
+
 ## Funcionalidades do Dashboard
 
 ### ➡ Indicadores Principais (KPIs)
